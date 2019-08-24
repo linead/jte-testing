@@ -1,3 +1,3 @@
 void call(env){ 
-    println "echoing environment (" + env + ")"
+    println "environment = " + env.long_name
 }
