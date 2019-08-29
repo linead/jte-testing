@@ -1,2 +1,2 @@
-hello(dev)
-hello(prod)
+hello env: dev
+hello env: prod
