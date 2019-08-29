@@ -1,3 +1,3 @@
-void call(env){ 
-    println "environment = " + env.long_name
+void call(){ 
+    println "environment = " + stageContext.config.long_name
 }
