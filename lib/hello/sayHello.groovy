@@ -1,5 +1,5 @@
 void call(){ 
-    def env = stageContext.config.env
+    def env = stageContext.env
     println env
     println "environment = " + env.long_name
 }
