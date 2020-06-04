@@ -4,13 +4,6 @@ deprecated{
 fields{
   required{
     projects=String
-/*    
-    {
-       ~/.*/ {
-        id = String
-        threshold = Integer
-      }
-    }
-*/
+
   }
 }
