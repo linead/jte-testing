@@ -4,7 +4,7 @@ deprecated{
 fields{
   required{
     projects{
-       dev {
+       /.*/ {
         id = String
         threshold = Integer
       }
