@@ -1,3 +1,3 @@
 void call(){ 
-    println "echo env"
+    println "echo env:" + stageContext.args.env
 }
