@@ -3,7 +3,11 @@ deprecated{
 }
 fields{
   required{
-    projects=String
-
+    projects{
+       dev {
+        id = String
+        threshold = Integer
+      }
+    }
   }
 }
