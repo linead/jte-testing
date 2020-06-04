@@ -3,7 +3,5 @@ deprecated{
 }
 
 required{
-  projects{
-
-  }
+  projects
 }
