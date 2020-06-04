@@ -4,9 +4,6 @@ deprecated{
 
 required{
   projects{
-    ~/.*/ {
-      id = String
-      threshold = Integer
-    }
+
   }
 }
